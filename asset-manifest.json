@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/ChessEnvoy/static/css/main.2dce71ba.chunk.css",
+    "main.js": "/ChessEnvoy/static/js/main.719b822b.chunk.js",
+    "main.js.map": "/ChessEnvoy/static/js/main.719b822b.chunk.js.map",
+    "runtime-main.js": "/ChessEnvoy/static/js/runtime-main.f35d8f38.js",
+    "runtime-main.js.map": "/ChessEnvoy/static/js/runtime-main.f35d8f38.js.map",
+    "static/css/2.a7ba5d00.chunk.css": "/ChessEnvoy/static/css/2.a7ba5d00.chunk.css",
+    "static/js/2.2a46dfe9.chunk.js": "/ChessEnvoy/static/js/2.2a46dfe9.chunk.js",
+    "static/js/2.2a46dfe9.chunk.js.map": "/ChessEnvoy/static/js/2.2a46dfe9.chunk.js.map",
+    "index.html": "/ChessEnvoy/index.html",
+    "precache-manifest.a27e65c24299099b0b655b44387ca164.js": "/ChessEnvoy/precache-manifest.a27e65c24299099b0b655b44387ca164.js",
+    "service-worker.js": "/ChessEnvoy/service-worker.js",
+    "static/css/2.a7ba5d00.chunk.css.map": "/ChessEnvoy/static/css/2.a7ba5d00.chunk.css.map",
+    "static/css/main.2dce71ba.chunk.css.map": "/ChessEnvoy/static/css/main.2dce71ba.chunk.css.map",
+    "static/js/2.2a46dfe9.chunk.js.LICENSE.txt": "/ChessEnvoy/static/js/2.2a46dfe9.chunk.js.LICENSE.txt",
+    "static/media/Agadmator.png": "/ChessEnvoy/static/media/Agadmator.7255ba8e.png",
+    "static/media/Alexandra-Botez.png": "/ChessEnvoy/static/media/Alexandra-Botez.5ed18b95.png",
+    "static/media/ChessNetwork.png": "/ChessEnvoy/static/media/ChessNetwork.672b4453.png",
+    "static/media/Christof-Sielecki.png": "/ChessEnvoy/static/media/Christof-Sielecki.6db6e02b.png",
+    "static/media/Eric-Rosen.png": "/ChessEnvoy/static/media/Eric-Rosen.23abe5cf.png",
+    "static/media/John-Bartholomew.png": "/ChessEnvoy/static/media/John-Bartholomew.64d48b24.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f35d8f38.js",
+    "static/css/2.a7ba5d00.chunk.css",
+    "static/js/2.2a46dfe9.chunk.js",
+    "static/css/main.2dce71ba.chunk.css",
+    "static/js/main.719b822b.chunk.js"
+  ]
+}
